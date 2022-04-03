@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrewlubanyana
 - 👀 I’m interested in Web development, web application and Data science 
 - 🌱 I’m currently learning Python, HTML and CSS
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development and data analysis
 
 
 <!---
